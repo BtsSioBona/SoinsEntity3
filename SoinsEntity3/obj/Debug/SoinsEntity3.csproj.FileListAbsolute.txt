@@ -1,0 +1,9 @@
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\SoinsEntity3.exe.config
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\SoinsEntity3.exe
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\SoinsEntity3.pdb
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\EntityFramework.dll
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\EntityFramework.xml
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\obj\Debug\SoinsEntity3.exe
+c:\users\rahmane.a\documents\visual studio 2015\Projects\SoinsEntity3\SoinsEntity3\obj\Debug\SoinsEntity3.pdb
